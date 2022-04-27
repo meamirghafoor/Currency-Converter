@@ -1,5 +1,5 @@
 # Currency-Converter
-# My assignment is to convert USD dollar to INR currencyusing live apis.
+# My assignment is to convert USD dollar to INR currency using live apis.
 # Interface
 ![WhatsApp Image 2022-04-27 at 11 05 27 PM](https://user-images.githubusercontent.com/77319741/165598016-102f990b-82db-4305-af62-3c24cef63bd1.jpeg)
 ![WhatsApp Image 2022-04-27 at 11 05 26 PM (1)](https://user-images.githubusercontent.com/77319741/165598026-c14c7ab4-e7cf-4c68-b799-7f8be5920fa1.jpeg)
